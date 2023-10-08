@@ -1,0 +1,1 @@
+-keep class com.example.authen_firebase.BuildConfig { *; }

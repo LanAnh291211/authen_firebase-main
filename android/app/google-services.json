@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "924278975566",
+    "project_id": "chatappflutter-309cf",
+    "storage_bucket": "chatappflutter-309cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924278975566:android:10e720a0af1ebdd076271f",
+        "android_client_info": {
+          "package_name": "sg.vinova.application.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924278975566-90vjsqepq17m9db8j0aunph5r7drv0ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ldPjNaq4OI4lMyRNmb9Dq4NdGPF79Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924278975566-90vjsqepq17m9db8j0aunph5r7drv0ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924278975566:android:6de5a8a61ade1fb776271f",
+        "android_client_info": {
+          "package_name": "com.example.authen_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "924278975566-90vjsqepq17m9db8j0aunph5r7drv0ue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ldPjNaq4OI4lMyRNmb9Dq4NdGPF79Ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "924278975566-90vjsqepq17m9db8j0aunph5r7drv0ue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
